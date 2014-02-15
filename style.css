@@ -1,3 +1,7 @@
+#form,#sell,#buyform{
+	top: 100px;
+position: relative;
+}
 #logo{
 	font-family:Helvetica;
 	top:11px;
